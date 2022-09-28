@@ -1,0 +1,66 @@
+header{
+    background-color: black;
+}
+
+
+main{
+    background-color: black;
+    left: 0;
+    right: 0;
+}
+main div{
+    margin: 5rem 5rem;
+    display: flex;
+    flex-wrap: wrap;
+}
+main img{
+    padding: 5px 3px;
+    text-align: center;
+}
+footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: rgb(208, 14, 14);
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    height: 4rem;
+    padding: 1rem ;
+    
+}
+
+
+.sez1{
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+}
+
+.sez1 .aaa{
+    flex-direction: column;
+    color: white;
+    margin: 0 5px;
+    padding-top: 0.5rem;
+    padding-bottom: 1rem;
+}
+footer div{
+    
+}
+
+div a{
+    color: white;
+}
+
+.fa-solid{
+    font-size: 20px;
+}
+.fa-chevron-up{
+    font-size: 10px;
+    margin: 0 0;
+}
+
+div a{
+   font-size: 20px;
+}
